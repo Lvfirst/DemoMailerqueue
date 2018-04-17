@@ -1,5 +1,5 @@
 {
-    "name": "doctorjason/mailerqueue",
+    "name": "demomailer/mailerqueue",
 
     "type": "yii2-extension",
 
@@ -8,7 +8,7 @@
     "license": "MIT",
     "support": {
         "issues": "https://github.com/Lvfirst/DemoMailerqueue/issues",
-        "forum" : "http://www.mr-jason.com",
+        "forum" : "none",
         "source": "https://github.com/Lvfirst/DemoMailerqueue"
     },
     "authors": [
