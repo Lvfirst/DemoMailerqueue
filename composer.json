@@ -7,8 +7,8 @@
     "keywords": ["yii2", "redis", "async", "mailer"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/Lvfirst/DemoMailerqueue/issues"
-        "forum": "http://www.mr-jason.com",
+        "issues": "https://github.com/Lvfirst/DemoMailerqueue/issues",
+        "forum" : "http://www.mr-jason.com",
         "source": "https://github.com/Lvfirst/DemoMailerqueue"
     },
     "authors": [
